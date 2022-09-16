@@ -1,4 +1,4 @@
-# Atividade-Introdução a Progamação
+# LP2
 
 ---
 ### 👀 Sobre o reposiório:
