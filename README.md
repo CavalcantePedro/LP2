@@ -3,11 +3,11 @@
 ---
 ### 👀 Sobre o reposiório:
 
-Este repositório foi criado para armazenar códigos feitos durante o andamento da cadeira de Laboratorio de programação II do curso de Engenhaia de Computação da `UFPB`.</br>
+Este repositório foi criado para armazenar códigos feitos durante o andamento da cadeira de Laboratorio de programação do curso de Engenharia de Computação da `UFPB`.</br>
 
-Todos os códigos foram desnvolvidos utilizando a linguaem c/c++.</br>
+Todos os códigos foram desenvolvidos utilizando a linguagem c/c++.</br>
 
-Sinta-se a vontade para utilizar os códigos deste repositório para fins de aprendizem.
+Sinta-se a vontade para utilizar os códigos deste repositório para fins de aprendizagem.
 
 ### 🌍 Onde me encontrar:
 
